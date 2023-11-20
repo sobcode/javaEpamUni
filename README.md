@@ -9,5 +9,8 @@ Return a two-dimensional array coming in the form of a table and containing numb
 Numbers fill the "table" clockwise from the top-level corner in a spiral manner.
 For example, for parameter values (3, 4), the output array should be:
  1  2  3  4
+ 
 10 11 12  5
+
  9  8  7  6
+ 
